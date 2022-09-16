@@ -92,4 +92,32 @@ padding-bottom: 2rem;
 }
 .section3{
     background: #E6E6E6;
+    padding: 5rem;
+}
+.sec_para1{
+    font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+color: #3D3D3D;
+text-align: center;
+padding-right: 2rem;
+}
+.sec_para2{
+    font-weight: 400;
+font-size: 15px;
+line-height: 23px;
+text-align: justify;
+color: #585858;
+}
+.cardimg{
+    padding-top: 2rem;
+}
+.card-text{
+    padding-top: 2rem;
+}
+.link1{
+    color: #AB0039;
+}
+.link2{
+    color: #7D7D7D;
 }
