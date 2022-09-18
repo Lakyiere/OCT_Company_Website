@@ -227,3 +227,27 @@ body {
 .secform{
   padding-left: 3rem;
 }
+/* Page 3 THE ABOUT US PAGE */
+.aboutus_home-banner{
+    padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  background-image: url(img/apple-code-coding-computer-574069\ 1.png);
+  background-size: cover;
+  height: 400px;
+}
+.activesection :hover{
+background: #ab0039;
+}
+.homeactivesection{
+  background-color: #ab0039;
+}
+/* Page 2 THE PARTNER PAGE */
+.partner_home-banner{
+    padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  background-image: url(img/selective-focus-photo-of-man-in-official-shirt-sitting-in-2451645\ 1.svg);
+  background-size: cover;
+  height: 600px;
+}
