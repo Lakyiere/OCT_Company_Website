@@ -210,18 +210,20 @@ body {
   font-size: 14px;
   padding-bottom: 3rem;
 }
-.section6{
+.section6 {
   padding: 2rem;
 }
-.sec6nav{
+.sec6nav {
   text-decoration: none;
   color: #fff;
   font-size: 10px;
 }
-.section7{
+.section7 {
   padding: 2rem;
 }
-.footertext{
+.footertext {
   font-size: 15px;
-  
+}
+.secform{
+  padding-left: 3rem;
 }
