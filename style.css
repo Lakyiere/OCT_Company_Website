@@ -229,13 +229,13 @@ body {
   padding-left: 3rem;
 }
 /* Get in touch section */
-.paraget{
+.paraget {
   font-weight: 600;
-font-size: 33px;
+  font-size: 33px;
 }
-.paragot{
+.paragot {
   font-weight: 400;
-font-size: 15px;
+  font-size: 15px;
 }
 /* Page 3 THE ABOUT US PAGE */
 .aboutus_home-banner {
@@ -263,34 +263,34 @@ font-size: 15px;
 }
 
 /* Styling for Mobile Screens */
-@media screen and (max-width: 800px){
-  .section1{
+@media screen and (max-width: 800px) {
+  .section1 {
     text-align: center;
   }
-.first{
-  font-weight: 600;
-font-size: 25px;
-}
-.second{
-  font-weight: 400;
-font-size: 15px;
-}
-.dots{
-  text-align: center;
-}
-.section-para1{
-  font-weight: 600;
-font-size: 20px;
-}
-.section-para2{
-  font-weight: 400;
-font-size: 15px;
-text-align: justify;
-}
-.btn2{
-  font-size: 10px;
-}
-.sec_para1{
-  font-size: 20px;
-}
+  .first {
+    font-weight: 600;
+    font-size: 25px;
+  }
+  .second {
+    font-weight: 400;
+    font-size: 15px;
+  }
+  .dots {
+    text-align: center;
+  }
+  .section-para1 {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .section-para2 {
+    font-weight: 400;
+    font-size: 15px;
+    text-align: justify;
+  }
+  .btn2 {
+    font-size: 10px;
+  }
+  .sec_para1 {
+    font-size: 20px;
+  }
 }
