@@ -24,4 +24,7 @@ This is the repository of a OCT Company Website
 
 ![Screenshot (247)](https://user-images.githubusercontent.com/70054440/195213064-02e36fd0-3207-4dab-8d84-a7d60fd1e359.png)
 
+# The Partner Page
+
+![Screenshot (248)](https://user-images.githubusercontent.com/70054440/195213303-ef859027-47aa-44ae-8777-478f09259a05.png)
 
