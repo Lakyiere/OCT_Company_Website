@@ -18,4 +18,10 @@ This is the repository of a OCT Company Website
 
 # The Product Page
 
+![Screenshot (245)](https://user-images.githubusercontent.com/70054440/195213069-9e59b024-7699-4d8f-9629-70baa47b0fd7.png)
+
+![Screenshot (246)](https://user-images.githubusercontent.com/70054440/195213080-a2defd65-b70a-4524-bd92-29ba803b2ab2.png)
+
+![Screenshot (247)](https://user-images.githubusercontent.com/70054440/195213064-02e36fd0-3207-4dab-8d84-a7d60fd1e359.png)
+
 
